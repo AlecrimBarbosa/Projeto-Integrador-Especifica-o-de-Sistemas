@@ -1,1 +1,2 @@
-# Projeto-Integrador-Especifica-o-de-Sistemas
+# Projeto-Integrador-Especificacao-de-Sistemas
+Aprendendo a usar o guihub.
